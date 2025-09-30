@@ -11,8 +11,7 @@ This repository contains some additional files, not included in Data Dragon :
 - Desktop and mobile wallpapers, released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO) and [2XKO's official website](https://2xko.riotgames.com)
 - Profile pictures, released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO) and [2XKO's official website](https://2xko.riotgames.com)
 - Champions renders, released by Riot Games on [2XKO's official Twitter account](https://twitter.com/Play2XKO) and [2XKO's official website](https://2xko.riotgames.com)
-- Game logo, downloaded from [2XKO's official website](https://2xko.riotgames.com) in maximum available quality
-- Game icon, downloaded from [2XKO's official website](https://2xko.riotgames.com) in maximum founded quality
+- Game logos and icons, downloaded from [2XKO's official website](https://2xko.riotgames.com) in maximum available quality
 
 ## Unused contents in this repository
 There is currently not unused content in this repository.
