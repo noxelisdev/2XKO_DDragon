@@ -1,6 +1,6 @@
 # _2XKO_ - Data Dragon
 
-Do you want to use DDragon for an another game from _Riot Games_? Check the _Data Dragon_ repository for [_League of Legends_](https://github.com/InFinity54/LoL_DDragon), [_Legends of Runeterra_](https://github.com/InFinity54/LoR_DDragon), or [_Valorant_](https://github.com/InFinity54/Valorant_DDragon). _Teamfight Tactics_ data is now included in LoL's _Data Dragon_ repository.
+Do you want to use DDragon for an another game from _Riot Games_? Check the _Data Dragon_ repository for [_League of Legends_](https://github.com/noxelisdev/LoL_DDragon), [_Legends of Runeterra_](https://github.com/noxelisdev/LoR_DDragon), [_Teamfight Tactics_](https://github.com/noxelisdev/TFT_DDragon), or [_Valorant_](https://github.com/noxelisdev/Valorant_DDragon).
 
 ## Introduction
 _Data Dragon_ is a package of files you can use for your projects about [_2XKO_](https://2xko.riotgames.com), distributed by Riot Games. _Data Dragon_ for _2XKO_ isn't available for now. However, some additional content has already been added. This repository will be updated as soon as _Data Dragon_ will be available for it (if it happens one day).
